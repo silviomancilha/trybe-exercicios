@@ -1,2 +1,1 @@
-# trybe-exercicios
-Repositório para resoluções de exercícios
+Resoluções de exercícios da plataforma Trybe
